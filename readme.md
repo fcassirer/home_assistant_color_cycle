@@ -5,7 +5,7 @@ _Provides a number of color cycle effects for any set of color bulbs
 
 ## Lovelace Example
 
-![Example of the entities in Lovelace](https://github.com/fcassirer/home_assistant_color_cycle/blob/master/colorcycle_entities.PNG)
+![Example of the entities in Lovelace](https://github.com/fcassirer/home_assistant_color_cycle/blob/master/colorcycle_entities.png)
 
 ## Installation
 
