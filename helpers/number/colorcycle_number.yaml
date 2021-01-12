@@ -1,0 +1,8 @@
+dock_effects_speed:
+  name: "Dock effects cycle time"
+  icon: mdi:speedometer
+  min: 1
+  max: 120
+  mode: "slider"
+  step: 1
+  unit_of_measurement: "Seconds"

@@ -1,0 +1,23 @@
+dock_effect:
+  name: Dock Effects
+  icon: mdi:docker
+  options:
+    - 'Off'
+    - 'Random'
+    - 'Pulse'
+    - 'Breathe'
+    - 'Wave'
+    - 'Strobe'
+  initial: 'Off'
+
+dock_effect_colors:
+  name: Dock Effect Colors
+  icon: mdi:palette
+  options:
+    - 'w3colors'
+    - 'rgby'
+    - 'rainbow'
+    - 'blues'
+    - 'reds'
+    - 'greens'
+    - 'xmas'

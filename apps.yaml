@@ -1,0 +1,22 @@
+---
+dockColorCycle:
+  module: colorcycle
+  class: ColorCycle
+  log: diag_log
+  lights: [ "group.dock_lights"]
+  helper_effect: input_select.dock_effect
+  helper_color: input_select.dock_effect_colors
+  helper_color_options:
+    rgby: [ "red", "green", "blue", "yellow" ]
+    rainbow: [ "red", "blue", "green", "yellow", "purple",  "crimson", "darkcyan", "orange"]
+    blues: [ "#blue", "#cyan", "#turquoise" ]
+    reds: [ "#red", "#crimson", "#pink" ]
+    xmas: [ "red", "green"]
+    greens: [ "#green" ]
+    yellows: [ "#yellow" ]
+
+  # speed in seconds
+  helper_speed: input_number.dock_effects_speed
+  fade: True
+  brightness: 100
+  color_temp: "2750"
